@@ -187,9 +187,7 @@ body {
 .brand_img {
   max-height: 75px;
 }
-.contact_title,
-.contact_subtitle {
-}
+
 .footer_container {
   padding: 100px 0;
   display: flex;
@@ -276,8 +274,7 @@ body {
     margin-left: 8vw;
     width: 70vw;
   }
-  .swiper-button-prev {
-  }
+
   .swiper-button-next {
     right: 5px !important;
   }
