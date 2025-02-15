@@ -66,6 +66,7 @@ body {
 }
 .contact_button a {
   color: black;
+  text-decoration: unset;
 }
 
 .service_card {
